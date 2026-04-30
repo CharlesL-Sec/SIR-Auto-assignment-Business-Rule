@@ -1,6 +1,8 @@
 # ServiceNow Auto Assignemtn Business Rule
 
 
+##  EJ - Auto-assign SOC Security Incidents
+
 ```javascsript
   (function executeRule(current, previous /*, gs, script_include*/ ) {
 
